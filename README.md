@@ -8,7 +8,7 @@ Workshop participants can be any mix of developers, testers, managers, business 
 
 ## Running the Workshop
 
-Most of what you need to run the workshop can be found in [materials.pdf](). That includes:
+Most of what you need to run the workshop can be found in [materials.pdf](materials.pdf). That includes:
 
 - Facilitator script and setup instructions
 - Participant worksheets
